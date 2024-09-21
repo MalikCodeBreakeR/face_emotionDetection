@@ -1,7 +1,7 @@
-Download the face_emotionDetection file.
-install the requirements.txt file (This is for python3.9.0)   {Better to install python3.9.0}
-run the gui.py fileusing vs code or anyother ide.
+1.) Download the face_emotionDetection file.
+2.) Install the requirements.txt file (This is for python3.9.0)   {Better to install python3.9.0}
+3.) Run the gui.py fileusing vs code or anyother IDE.
 
-to train, detect emotion, face all the buttons are given in the GUI.
+4.) To train, detect emotion, face all the buttons are given in the GUI.
 
 Thank you share with your friend.
